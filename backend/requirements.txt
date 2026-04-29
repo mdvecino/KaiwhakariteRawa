@@ -1,0 +1,25 @@
+# Kaiwhakarite Rawa Backend Requirements
+# System Developer: Merryh Dugenia Vecino
+
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+sqlalchemy==2.0.23
+pydantic==2.5.0
+pydantic[email]==2.5.0
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.6
+pillow==10.1.0
+python-dotenv==1.0.0
+aiofiles==23.2.1
+httpx==0.25.2
+requests==2.31.0
+beautifulsoup4
+psutil==5.9.6
+qrcode[pil]==7.4.2
+
+# Notification Dependencies
+fastapi-mail==1.4.1
+# Optional: Uncomment to enable SMS notifications
+# twilio==8.10.0
+websockets==12.0 

@@ -1,0 +1,1 @@
+# This router is now obsolete. All access request logic has been removed as part of the simplification process. 
